@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Shinji",
+      "image":"https://i.kym-cdn.com/entries/icons/original/000/017/786/tumblr_mjkfjrIFyZ1s8r2c1o1_400.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Asuka",
+      "image": "https://vignette4.wikia.nocookie.net/characterprofile/images/7/72/Asuka.png/revision/latest?cb=20160326113417",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Rei",
+      "image": "https://i.pinimg.com/originals/24/9c/1f/249c1fd5de0a8f78afa7a85b918a80da.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Misato",
+      "image": "https://i.pinimg.com/originals/ce/a1/05/cea105bafe7ae076bc226084da0bf3d2.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Mari",
+      "image": "https://vignette.wikia.nocookie.net/evangelion/images/2/28/Mari_%28Plugsuit_08%29.png/revision/latest?cb=20130426094118",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Kaworu",
+      "image": "https://i.pinimg.com/originals/b1/a5/76/b1a5765a65e4ab25bbfeb4a8df9c10a8.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Ritsuko",
+      "image": "https://vignette.wikia.nocookie.net/evangelion/images/6/69/Ritsuko_Akagi_%28Lab_Coat%29.png/revision/latest?cb=20120305024739",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Eva06",
+      "image": "https://vignette.wikia.nocookie.net/evangelion/images/4/43/Evangelion_Mark_06_Artwork.png/revision/latest?cb=20130316175955",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Eva01",
+      "image": "https://vignette.wikia.nocookie.net/evangelion/images/7/77/Evangelion_Unit_01.png/revision/latest?cb=20120207020239",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Eva02",
+      "image": "https://vignette.wikia.nocookie.net/evangelion/images/4/4c/Unit_02_equipped_with_cannons.png/revision/latest?cb=20130511174003",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Eva03",
+      "image": "https://vignette.wikia.nocookie.net/evangelion/images/d/db/Evangelion_Unit-03.png/revision/latest?cb=20130618143044",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Eva04",
+      "image": "https://vignette.wikia.nocookie.net/evangelion/images/2/28/Evangelion_Unit-04_Artwork_%28CR_NGE_-_Angels%27_Return%29.png/revision/latest?cb=20140409043907",
+      "count": 0
+    }
+  ]

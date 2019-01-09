@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: #a0de59;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px #466b5a;
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+  }
